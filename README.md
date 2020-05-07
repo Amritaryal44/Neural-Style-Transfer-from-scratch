@@ -9,6 +9,8 @@
 **If you have any question, feel free to ask**
 
 ### Some Result I got training on GPU on Google CoLAB
+| Image Type | Images |
+| --- | --- |
 | Content Image | <img src="images/face.jpg" alt="Shrinkhala's Image" width="200"/> |
 | Style Image | <img src="images/paint.jpg" alt="Painting from google search" width="200"/> |
 | Generated Image | <img src="images/final.png" alt="Final Generated" width="200"/> |
